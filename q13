@@ -1,0 +1,9 @@
+# Problem 13: Find second largest number in a list
+
+nums = list(map(int, input("Enter numbers separated by space: ").split()))
+nums = list(set(nums))
+nums.sort()
+if len(nums) < 2:
+    print("Not enough elements")
+else:
+    print(nums[-2])
