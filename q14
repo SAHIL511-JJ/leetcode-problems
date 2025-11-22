@@ -1,0 +1,4 @@
+# Problem 14: Count number of words in a string
+
+s = input("Enter a sentence: ")
+print(len(s.split()))
