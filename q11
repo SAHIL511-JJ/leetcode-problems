@@ -1,0 +1,4 @@
+# Problem 11: Find length of a string
+
+s = input("Enter a string: ")
+print(len(s))
