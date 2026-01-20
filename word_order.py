@@ -12,3 +12,4 @@ if __name__ == '__main__':
     n = int(input())
     words = [input() for _ in range(n)]
     word_order(words)
+//alright
