@@ -10,3 +10,6 @@ A3: 6
 
 Q4: What is 4 plus 
 A4: 8
+
+Q5: What is 5 plus 
+A5: 10
