@@ -22,3 +22,6 @@ A7: 14
 
 Q8: What is 8 plus 
 A8: 16
+
+Q9: What is 9 plus 
+A9: 18
