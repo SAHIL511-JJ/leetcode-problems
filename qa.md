@@ -25,3 +25,6 @@ A8: 16
 
 Q9: What is 9 plus 
 A9: 18
+
+Q10: What is 10 plus 
+A10: 20
