@@ -19,3 +19,6 @@ A6: 12
 
 Q7: What is 7 plus 
 A7: 14
+
+Q8: What is 8 plus 
+A8: 16
