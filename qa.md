@@ -7,3 +7,6 @@ A2: 4
 
 Q3: What is 3 plus 
 A3: 6
+
+Q4: What is 4 plus 
+A4: 8
